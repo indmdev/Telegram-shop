@@ -8,6 +8,7 @@ This Telegram bot is a free template for a shop in Telegram, for either digital 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/database-SQLite%20%7C%20PostgreSQL-003B57?logo=sqlite&logoColor=white)
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-555)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Telegram bot for selling digital products (software license keys and downloadable files). Customers browse a catalog, top up an internal wallet with crypto or card, and spend that balance on products. License keys are delivered automatically from inventory; file products are delivered as download links. A full in-Telegram admin panel handles products, categories, stock, orders, disputes, users, broadcasts, and store settings.
 
@@ -335,3 +336,9 @@ Keep the `python bot.py` window open, or run it as a background/scheduled task (
 
 
 
+## License
+
+Released under the [MIT License](LICENSE).
+
+> ⚠️ **Note: Use this program only for legal purposes.**
+> InDMDev is not and will not be responsible for any illegal activity/activities you indulge in using this program.
