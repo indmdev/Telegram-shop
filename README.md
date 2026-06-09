@@ -264,7 +264,7 @@ By default, CryptoBot payments are confirmed by polling every ~30 seconds (no ex
    https://<your-ngrok-or-domain>/webhook/cryptobot
    ```
 
-> On Windows you can launch the bot and the webhook server together with `start_with_webhooks.bat` (you still run ngrok yourself). Card payments need no webhook — Telegram delivers their confirmation through the bot’s normal update polling.
+> On Windows, you can launch the bot and the webhook server together with `start_with_webhooks.bat` (you still run ngrok yourself). Card payments need no webhook — Telegram delivers their confirmation through the bot’s normal update polling.
 
 ---
 
@@ -340,6 +340,7 @@ Keep the `python bot.py` window open, or run it as a background/scheduled task (
 | Bot stops when you close the terminal | That’s expected — use the [24/7 section](#optional--keep-the-bot-running-247). |
 
 
+---
 
 ## FAQ
 
