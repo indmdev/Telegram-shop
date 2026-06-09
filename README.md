@@ -341,6 +341,33 @@ Keep the `python bot.py` window open, or run it as a background/scheduled task (
 
 
 
+## FAQ
+
+**What is this project?**
+An open-source, self-hosted **Telegram bot for selling digital products** — software license/activation keys and downloadable files — with a customer-facing storefront and a full admin panel, all inside Telegram.
+
+**What can I sell with it?**
+Anything digital: software license keys, game keys, gift-card codes, e-books, PDFs, courses, templates, or any downloadable file delivered via a link.
+
+**How do customers pay?**
+Customers fund an in-bot **wallet**, then spend the balance on purchases. Top-ups are supported via **CryptoBot** (any cryptocurrency) and **card payments** (Telegram Payments). Both methods are optional and toggled by config.
+
+**Is delivery automatic?**
+Yes. License keys are assigned automatically from your inventory the moment a purchase is confirmed; file products are delivered as a download link — no manual fulfillment.
+
+**Do I need to know how to code to run it?**
+No. Clone the repo, fill in a `.env` file, and run one command. The database is created automatically on first launch.
+
+**Which database does it use?**
+**SQLite** by default (zero setup). You can switch to **PostgreSQL** by changing a single environment variable.
+
+**Does it work on Windows and Linux?**
+Yes — the [setup guide](#table-of-contents) has step-by-step commands for **Windows, Linux, and macOS**, plus a `systemd` service for 24/7 hosting.
+
+**Is it free and open source?**
+Yes — released under the [MIT License](LICENSE).
+
+---
 
 ## License
 
@@ -348,3 +375,9 @@ Released under the [MIT License](LICENSE).
 
 > ⚠️ **Note: Use this program only for legal purposes.**
 > InDMDev is not and will not be responsible for any illegal activity/activities you indulge in using any of our programs.
+
+
+
+<sub>**Suggested GitHub topics** (add these in the repo’s ⚙️ *About* → *Topics* for discoverability): `telegram-bot` · `python` · `python-telegram-bot` · `ecommerce` · `digital-products` · `license-keys` · `crypto-payments` · `cryptobot` · `telegram-payments` · `sqlalchemy` · `store-bot` · `shop-bot` · `automation`</sub>
+
+<sub>**Keywords:** Telegram bot for selling digital products · sell software license keys on Telegram · Telegram shop / store bot · crypto payment bot · CryptoBot integration · Telegram Payments card checkout · automated digital delivery · Python e-commerce bot · python-telegram-bot store · SQLAlchemy SQLite Telegram bot · self-hosted digital goods storefront.</sub>
