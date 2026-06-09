@@ -377,7 +377,3 @@ Released under the [MIT License](LICENSE).
 > InDMDev is not and will not be responsible for any illegal activity/activities you indulge in using any of our programs.
 
 
-
-<sub>**Suggested GitHub topics** (add these in the repo’s ⚙️ *About* → *Topics* for discoverability): `telegram-bot` · `python` · `python-telegram-bot` · `ecommerce` · `digital-products` · `license-keys` · `crypto-payments` · `cryptobot` · `telegram-payments` · `sqlalchemy` · `store-bot` · `shop-bot` · `automation`</sub>
-
-<sub>**Keywords:** Telegram bot for selling digital products · sell software license keys on Telegram · Telegram shop / store bot · crypto payment bot · CryptoBot integration · Telegram Payments card checkout · automated digital delivery · Python e-commerce bot · python-telegram-bot store · SQLAlchemy SQLite Telegram bot · self-hosted digital goods storefront.</sub>
