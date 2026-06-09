@@ -1,6 +1,5 @@
 # Telegram-shop
-A production-ready Telegram shop bot open source template for managing a complete inventory store in Telegram. This Telegram Store Bot is for either digital delivery or physical inventory.
-
+Telegram shop bot is a complete like this one, a Telegram store bot for managing complete inventory store in Telegram. This Telegram Store Bot is for digital inventory.
 > Message me at [@InDMDev](https://t.me/InDMDev) for your advanced bot customizations.
 > For more Bots like this, and to be the first to know when I publish free bots, join my channel: [@InDMDevBots](https://t.me/InDMDevBots)
 
