@@ -1,8 +1,8 @@
 # Telegram-shop
 This Open Source Telegram bot is a free template for a shop in Telegram, for either digital delivery or physical inventory.
 
-Message me at [@InDMDev](https://t.me/InDMDev) for your advanced bot customizations.
-For more Bots like this, and to be the first to know when I publish free bots, join my channel: [@InDMDevBots](https://t.me/InDMDevBots)
+> Message me at [@InDMDev](https://t.me/InDMDev) for your advanced bot customizations.
+> For more Bots like this, and to be the first to know when I publish free bots, join my channel: [@InDMDevBots](https://t.me/InDMDevBots)
 
 
 # Digital Products Store — Telegram Bot
