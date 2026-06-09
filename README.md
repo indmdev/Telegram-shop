@@ -1,8 +1,19 @@
 # Telegram-shop
-Telegram shop bot is a complete like this one, a Telegram store bot for managing complete inventory store in Telegram. This Telegram Store Bot is for digital inventory.
+Telegram shop bot is a complete one like this one, a Telegram store bot for managing a complete inventory store in Telegram. This Telegram Store Bot is for digital inventory.
 > Message me at [@InDMDev](https://t.me/InDMDev) for your advanced bot customizations.
 > For more Bots like this, and to be the first to know when I publish free bots, join my channel: [@InDMDevBots](https://t.me/InDMDevBots)
-
+> 
+> Telegram bot for selling digital products:
+> · sell software license keys on Telegram
+> · Telegram shop/store bot
+> · crypto payment bot
+> · CryptoBot integration
+> · Telegram Payments card checkout
+> · automated digital delivery
+> · Python e-commerce bot
+> · python-telegram-bot store
+> · SQLAlchemy SQLite Telegram bot
+> · self-hosted digital goods storefront.
 
 # Digital Products Store — Telegram Bot
 
