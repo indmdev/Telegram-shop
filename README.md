@@ -24,12 +24,12 @@ Telegram shop bot is a template like this one, a Telegram store bot for managing
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20macOS-555)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A Telegram bot for selling digital products (software license keys and downloadable files). Customers browse a catalog, top up an internal wallet with crypto or card, and spend that balance on products. License keys are automatically delivered from inventory; file products are delivered via download links. A full in-Telegram admin panel handles products, categories, stock, orders, disputes, users, broadcasts, and store settings.
+A Telegram bot for selling digital products (software license keys and downloadable files). Customers browse a catalog, top up an internal wallet with crypto or a card, and spend that balance on products. License keys are automatically delivered from inventory; file products are delivered via download links. A full in-Telegram admin panel handles products, categories, stock, orders, disputes, users, broadcasts, and store settings.
 
 Built with **Python**, **python-telegram-bot v20** (async), and **SQLAlchemy** (SQLite by default).
 
 ---
-
+Bot Demo
 <img width="434" height="501" alt="image" src="https://github.com/user-attachments/assets/e812d892-c878-4fc9-a6a4-ebc5b3657d8d" />
 
 ## Table of Contents
